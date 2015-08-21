@@ -23,6 +23,10 @@
     "errorhandler": "^1.0.1",
     "method-override": "^1.0.0"
   },
+  "engines": {
+     "node": "0.12.4",
+      "npm": "1.1.x"
+   },
   "bin": {
     "salsa-express": "./start.js"
   }
