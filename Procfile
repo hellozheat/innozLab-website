@@ -1,1 +1,1 @@
-web: node start public
+web: node server.js
